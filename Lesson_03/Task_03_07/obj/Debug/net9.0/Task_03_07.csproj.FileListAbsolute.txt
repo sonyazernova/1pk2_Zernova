@@ -1,0 +1,15 @@
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.AssemblyInfoInputs.cache
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.AssemblyInfo.cs
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.csproj.CoreCompileInputs.cache
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.sourcelink.json
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/bin/Debug/net9.0/Task_03_07
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/bin/Debug/net9.0/Task_03_07.deps.json
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/bin/Debug/net9.0/Task_03_07.runtimeconfig.json
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/bin/Debug/net9.0/Task_03_07.dll
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/bin/Debug/net9.0/Task_03_07.pdb
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.dll
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/refint/Task_03_07.dll
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.pdb
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/Task_03_07.genruntimeconfig.cache
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_03/Task_03_07/obj/Debug/net9.0/ref/Task_03_07.dll
