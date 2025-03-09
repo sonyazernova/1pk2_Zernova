@@ -1,0 +1,15 @@
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/bin/Debug/net9.0/Task_10_06
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/bin/Debug/net9.0/Task_10_06.deps.json
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/bin/Debug/net9.0/Task_10_06.runtimeconfig.json
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/bin/Debug/net9.0/Task_10_06.dll
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/bin/Debug/net9.0/Task_10_06.pdb
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.AssemblyInfoInputs.cache
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.AssemblyInfo.cs
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.csproj.CoreCompileInputs.cache
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.sourcelink.json
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.dll
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/refint/Task_10_06.dll
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.pdb
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/Task_10_06.genruntimeconfig.cache
+/Users/sofazernova/Desktop/1pk2_Zernova/Lesson_10/Task_10_06/obj/Debug/net9.0/ref/Task_10_06.dll
